@@ -2,6 +2,8 @@ Template from https://gist.github.com/jxson/1784669
 
 ## Synopsis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/csprayca/superawesomebase.svg)](https://greenkeeper.io/)
+
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 ## Code Example
