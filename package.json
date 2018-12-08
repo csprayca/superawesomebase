@@ -1,6 +1,6 @@
 {
   "name": "base",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Super awesome base project for nodejs.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "lint:fix": "eslint --fix src",
     "jsdoc": "jsdoc -c jsdoc.config.js",
     "semantic-release": "semantic-release",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "corp-release": "corp-semantic-release"
   },
   "config": {
     "commitizen": {
@@ -47,6 +48,7 @@
     "babel-jest": "^23.6.0",
     "codecov": "^3.1.0",
     "commitizen": "^3.0.5",
+    "corp-semantic-release": "^6.4.0",
     "coveralls": "^3.0.2",
     "cz-conventional-changelog": "^2.1.0",
     "eslint": "^5.9.0",
